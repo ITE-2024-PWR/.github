@@ -6,9 +6,9 @@ Rozwiązania zadań laboratoryjnych i projektowych z wybranych przedmiotów, kt�
 
 Repozytoria, aby dało się stosunkowo łatwo domyślić, do czego to był program, są nazywane wg następującego schematu:
 
-`sem<nr semestru>-<skrótowa nazwa przedmiotu>-<nazwa (np. wymagana przez prowadzącego) >-inicjały`
+`sem<nr semestru>-<skrótowa nazwa przedmiotu>-<nazwa (np. wymagana przez prowadzącego)>-inicjały`
 
-np.: `sem2-pp-lab03-mw`, `sem4-aizo-proj1-mb`
+np.: `sem1-pp-lab-mw`, `sem4-aizo-proj1-ak`
 
 
 ## Timeline
