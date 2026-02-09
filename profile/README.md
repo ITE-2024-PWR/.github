@@ -15,6 +15,7 @@ np.: `sem1-pp-lab-mw`, `sem4-aizo-proj1-ak`
 
 ### [Semestr 1](https://github.com/ITE-2024-PWR/Semestr-1)
 ### [Semestr 2](https://github.com/ITE-2024-PWR/Semestr-2)
+### [Semestr 3](https://github.com/ITE-2024-PWR/Semestr-3)
 
 ## Również przydatne
 
